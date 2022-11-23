@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "178925660950",
+    "project_id": "tatoapp-884c3",
+    "storage_bucket": "tatoapp-884c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178925660950:android:b8706e161aa2d7b9037e37",
+        "android_client_info": {
+          "package_name": "com.example.blackmoon_tattoos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178925660950-hi99ab3ggoa06ru2nq7esgh1k57so47r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSHFrsndlDNzEBHRmGN2_jyWOWWMMI9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178925660950-hi99ab3ggoa06ru2nq7esgh1k57so47r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178925660950:android:2c6b6c4d0a72b90c037e37",
+        "android_client_info": {
+          "package_name": "com.example.tatto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178925660950-hi99ab3ggoa06ru2nq7esgh1k57so47r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSHFrsndlDNzEBHRmGN2_jyWOWWMMI9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178925660950-hi99ab3ggoa06ru2nq7esgh1k57so47r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
